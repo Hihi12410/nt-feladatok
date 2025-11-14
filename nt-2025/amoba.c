@@ -5,7 +5,7 @@ int main()
     int tabla[3*3] = {};
     int k;
     scanf("%d", &k);
-    int p = 0;
+    int p = 1;
     
     for (int i = 0; i < k; ++i) 
     {
